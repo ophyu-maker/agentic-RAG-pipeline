@@ -1,4 +1,4 @@
-# agentic-RAG-pipeline
+# Agentic-RAG-pipeline
 Hands-on RAG engineering practice project based on a guided course.
 
 ## Project Overview
